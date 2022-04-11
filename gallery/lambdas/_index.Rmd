@@ -1,0 +1,38 @@
+---
+output: hugodown::md_document
+title: "Lambdas"
+date: 2021-07-17
+summary: ''
+trailer: "gallery/lambdas/preview/plot_9_no_8_magma.jpg"
+splash:
+  image: "./image/plot_9_no_8_magma.jpg"
+  caption: "Lambdas"
+---
+
+<style>
+.splash-caption-tweak {
+  letter-spacing: 10px;
+  font-weight: 700;
+  font-size: 200%;
+  color: black;
+}
+</style>
+
+<div class="full-width">
+
+## About
+
++ Pieces: Total supply 173/618
++ Attributes:
+
+shapes: 1 48.20%, 4 30.94%, 6 17.27%, 9 3.60%
+
+colour: blackwhite 35.9%, kovesi 9.35%, lajolla 3.59%, lapaz 3.59%, lumina 5.03%, magma 2.87%, MononokeMedium 2.15%, oceandense 2.87%, oceanmatter 4.31%, oceantempo 2.15%, oceanthermal   4.31%, orange 5.03%, pal11 3.59%, pal12 2.87%, tokyo 3.59, turquoise 3.59%, YesterdayMedium 5.03%
+
+</div>
+
+<div class="full-width">
+
+</div>
+
+

@@ -1,0 +1,30 @@
+<footer class="footer-area">
+
+<!-- highlight.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+
+<script>
+hljs.configure({languages: []});
+hljs.initHighlightingOnLoad();
+</script>
+
+{{ partial "foot_custom.html" . }}
+
+{{ with .Site.Params.footer }}
+  <div class="container">
+    <div class="footer-bottom">
+      {{ . | markdownify }}
+    </div>
+  </div>
+{{ end }}
+
+
+<center>Powered by: <a href="https://solana.com/" target="_blank"><span>Solana</span></a> | <a href="https://scrt.network/" target="_blank"><span>Secret network </span></a> | <a href="https://metaplex.com/" target="_blank"><span>Metaplex</span></a> | <a href="https://www.r-project.org/foundation/" target="_blank"><span>R Foundation</span></a></center>
+
+<!-- bootstrap, popper and jquery -->
+<script type="text/javascript" src="{{ "/js/jquery-2.2.4.min.js" | relURL }}" /></script>
+<script type="text/javascript" src="{{ "/js/popper.min.js" | relURL }}" /></script>
+<script type="text/javascript" src="{{ "/js/bootstrap.min.js" | relURL }}" /></script>
+
+</footer>

@@ -1,0 +1,43 @@
+---
+output: hugodown::md_document
+title: "Reflections"
+date: 2021-07-17
+summary: ''
+trailer: "gallery/reflections/preview/Reflections18.jpg"
+splash:
+  image: "./image/Reflections18.jpg"
+  caption: "Reflections"
+---
+
+<style>
+.splash-caption-tweak {
+  letter-spacing: 10px;
+  font-weight: 700;
+  font-size: 200%;
+  color: black;
+}
+
+h2 {color: white;}
+.full-width {
+  width: 100vw;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+</style>
+
+<div class="full-width">
+## About reflections
+
++ Inspiration: Travel to a quiet place, where nature shows us its forms.
++ Pieces: 36 Minted. Total 36/618
++ Atributes: type
++ Rarity: 6 rare (Reflections 2, Reflections 14, Reflections 18, Reflections 21, Reflections 30, Reflections 31)
+</div>
+<div class="full-width">
+## Status
+
++ Minted: 36
++ Volume: 77.1 SOL
++ Max: 11.5 SOL
+</div>

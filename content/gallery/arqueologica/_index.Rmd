@@ -1,0 +1,46 @@
+---
+output: hugodown::md_document
+title: "Arqueologica"
+date: 2021-07-17
+summary: ''
+trailer: "gallery/arqueologica/preview/Arqueologica68.png"
+splash:
+  image: "./image/Arqueologica68.png"
+  caption: "Arqueologica"
+---
+
+<style>
+.splash-caption-tweak {
+  letter-spacing: 10px;
+  font-weight: 700;
+  font-size: 200%;
+  color: white;
+}
+
+h2 {color: white;}
+
+.full-width {
+  width: 100vw;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+</style>
+
+<div class="full-width">
+
+## About 
+
++ Inspiration: Intricate ancient cities
++ Pieces: 38 minted, 38 remaining. Total supply 76/618
++ Attributes: background (9 black, 67 white), completecity (10 yes, 66 no)
+
+</div>
+
+<div class="full-width">
+## Status
+
++ Minted: 38
++ Volume: 194.8 SOL
++ Max: 35 SOL
+</div>

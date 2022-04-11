@@ -1,0 +1,41 @@
+---
+output: hugodown::md_document
+title: "Centinels"
+date: 2021-07-17
+summary: ''
+trailer: "gallery/centinels/preview/5_infinite_oceantempo.jpg"
+splash:
+  image: "./image/5_infinite_oceantempo.jpg"
+  caption: "Centinels"
+---
+
+<style>
+.splash-caption-tweak {
+  letter-spacing: 10px;
+  font-weight: 700;
+  font-size: 200%;
+  color: black;
+}
+
+h2 {color: white;}
+</style>
+
+<div class="full-width">
+
+## About
+
++ Pieces: Total supply 173/618
++ Attributes:
+
+type: eventhorizon 17.34%, flower 22.54%, fossal 6.36%, mixed 17.34%, portal 22.54%, propulsive 2.31%, stalacta 11.56%
+
+colour: lajolla 5.2%, lapaz 2.89%, lumina 5.2%, magma 4.04%, MononokeMedium 53.76%, oceandense 5.2%, oceanmatter 2.3%, oceantempo 9.8%, tokyo 6.36%, turquoise 2.9%, yesterdaymedium 2.3%
+
+
+</div>
+
+<div class="full-width">
+
+</div>
+
+

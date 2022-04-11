@@ -1,0 +1,43 @@
+---
+output: hugodown::md_document
+title: "Fluidal"
+date: 2021-07-17
+summary: ''
+trailer: "gallery/fluidal/preview/Fluidal16.png"
+splash:
+  image: "./image/Fluidal16.png"
+  caption: "Fluidal"
+---
+
+<style>
+.splash-caption-tweak {
+  letter-spacing: 10px;
+  font-weight: 700;
+  font-size: 200%;
+  color: black;
+}
+
+h2 {color: white;}
+
+.full-width {
+  width: 100vw;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+</style>
+
+<div class="full-width">
+## About
+
++ Inspiration: A nice decoration for a living room
++ Pieces: 17 minted, 19 remaining. Total supply 36/618
++ Attributes: NA or neighboord
+</div>
+<div class="full-width">
+## Status
+
++ Minted: 17
++ Volume: 45.1 SOL
++ Max: 15 SOL
+</div>

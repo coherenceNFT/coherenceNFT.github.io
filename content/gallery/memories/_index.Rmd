@@ -1,0 +1,45 @@
+---
+output: hugodown::md_document
+title: "Memories"
+date: 2021-07-17
+summary: ''
+trailer: "gallery/memories/preview/memories36.png"
+splash:
+  image: "./image/memories36.png"
+  caption: "Memories"
+---
+
+<style>
+.splash-caption-tweak {
+  letter-spacing: 10px;
+  font-weight: 700;
+  font-size: 200%;
+  color: black;
+}
+
+h2 {color: white;}
+
+.full-width {
+  width: 100vw;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+</style>
+
+<div class="full-width">
+
+## About memories
+
++ Inspiration: A memoir is an account that more or less reliably describes the facts and events that the author has experienced as a protagonist or witness. Like sand in the wind, it tends to disintegrate, change, move, slowly disappear or become something else, sometimes more beautiful.
++ Pieces: 36 Minted. Total 36/618
++ Attributes: Dust (shape color; not the background), Shapes (amount of shapes), Shape.
+</div>
+
+<div class="full-width">
+## Status
+
++ Minted: 36
++ Volume: 84.6 SOL
++ Max: 12.2 SOL
+</div>

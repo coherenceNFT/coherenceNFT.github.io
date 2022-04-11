@@ -1,0 +1,38 @@
+---
+output: hugodown::md_document
+title: "Biochips"
+date: 2021-07-17
+summary: ''
+trailer: "gallery/biochips/preview/Biochip53.jpg"
+splash:
+  image: "./image/Biochip53.jpg"
+  caption: "Biochips"
+---
+
+<style>
+.splash-caption-tweak {
+  letter-spacing: 10px;
+  font-weight: 700;
+  font-size: 200%;
+  color: black;
+}
+
+h2, h5, small {color: white;}
+.full-width {
+  width: 100vw;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+</style>
+
+<div class="full-width">
+
+## About
+
++ Inspiration: SciFi, how i imagine the alien tech
++ Pieces: 92
++ Attributes: magneticdisk and silicon, detailed for each piece, other/s (detailed for some pieces), fuel (additional feature extra rare)
+</div>
+
+
